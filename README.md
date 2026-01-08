@@ -1,2 +1,1 @@
-# MT-Tweets
-This repository has twitter data
+This project analyzes Twitter (X) airline data to identify customer sentiment trends and tweet volume by airline. It efficiently processes large Twitter datasets using chunked data loading, aggregates sentiment and airline-level metrics, and presents insights through interactive and static visualizations. The project demonstrates scalable data processing, exploratory data analysis, and effective communication of social media insights using Python.
